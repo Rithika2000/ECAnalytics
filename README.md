@@ -3,9 +3,13 @@
 Contents
 
 1.Introduction
+
 2.Article Review 
+
 3.Project Description 
+
 4.Implementation Details 
+
 5.Expected Outcome
 
 
