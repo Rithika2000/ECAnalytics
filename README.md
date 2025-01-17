@@ -2,17 +2,15 @@
 
 ## Contents
 
-  **1.Introduction**
+  1.Introduction
 
-  **2.Article Review**
+  2.Article Review
 
-  **3.Project Description** 
+  3.Project Description
 
-  **4.Implementation Details** 
+  4.Implementation Details
 
-  **5.Expected Outcome**
-
-
+  5.Expected Outcome
 
 
 **1.Introduction**
