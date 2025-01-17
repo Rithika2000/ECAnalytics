@@ -1,4 +1,4 @@
-                    A Project report on Unlocking Insights from E-commerce Data: A Case Study of NewChic.com
+# A Project report on Unlocking Insights from E-commerce Data: A Case Study of NewChic.com
 
 Contents
 
