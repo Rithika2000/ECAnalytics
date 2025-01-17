@@ -51,5 +51,17 @@ a.Metrics/KPIs: Specific metrics and key performance indicators (KPIs) utilized 
 b.Implications: Finally, we will explore the broader implications of our findings. This entails a comprehensive examination of how our research stands to benefit businesses and researchers operating within the e-commerce domain. Potential impacts on user experiences, marketing strategies, and overall business strategies will be elucidated.
 
 c.In conclusion, this project embarks on an exciting journey into the intricate world of e-commerce data analysis. By harnessing the NewChic.com dataset and drawing inspiration from insights gleaned from existing literature, our aim is to cast light on user behavior and product popularity within the platform. Our findings possess the potential not only to enrich NewChic.com's operations but also to contribute to a deeper understanding of e-commerce dynamics within an ever-evolving digital landscape.
+
+
+ <img width="1433" alt="Screenshot 2025-01-17 at 2 17 53 PM" src="https://github.com/user-attachments/assets/46d9b077-942d-4f1c-bc62-db2f223cdec0" />
+
  
+<img width="1440" alt="Screenshot 2025-01-17 at 2 18 02 PM" src="https://github.com/user-attachments/assets/ac285825-518a-4035-8b87-e68a2a712a55" />
+
+
+<img width="1440" alt="Screenshot 2025-01-17 at 2 18 09 PM" src="https://github.com/user-attachments/assets/d4e6ca50-94b7-4ba1-95f6-2858c381eed7" />
+
+<img width="1436" alt="Screenshot 2025-01-17 at 2 18 18 PM" src="https://github.com/user-attachments/assets/5cd44aa1-4552-46ef-a556-4a457f3f3a75" />
+
+
  
