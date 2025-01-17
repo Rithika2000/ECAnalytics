@@ -52,6 +52,7 @@ b.Implications: Finally, we will explore the broader implications of our finding
 
 c.In conclusion, this project embarks on an exciting journey into the intricate world of e-commerce data analysis. By harnessing the NewChic.com dataset and drawing inspiration from insights gleaned from existing literature, our aim is to cast light on user behavior and product popularity within the platform. Our findings possess the potential not only to enrich NewChic.com's operations but also to contribute to a deeper understanding of e-commerce dynamics within an ever-evolving digital landscape.
 
+## Power BI dashboards images
 
  <img width="1433" alt="Screenshot 2025-01-17 at 2 17 53 PM" src="https://github.com/user-attachments/assets/46d9b077-942d-4f1c-bc62-db2f223cdec0" />
 
